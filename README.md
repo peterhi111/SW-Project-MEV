@@ -1,6 +1,6 @@
 # SW-Project-MEV
 
-<img src="https://user-images.githubusercontent.com/61396470/165740015-8713072f-f73c-4077-bab5-fa1429a9f18e.jpg" width = "200" height="250"><br/>
+<img src="https://user-images.githubusercontent.com/61396470/165740015-8713072f-f73c-4077-bab5-fa1429a9f18e.jpg" width = "200" height="240"><br/>
      
 Self-Introduction:
 
